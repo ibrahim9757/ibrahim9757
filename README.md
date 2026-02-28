@@ -17,7 +17,7 @@ Outside of coding, I enjoy exploring new tools, analyzing data, and experimentin
 🚀 \*\*Let’s collaborate, learn, and build something impactful together!\*\*
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [linkedin](http://https://www.linkedin.com/in/mohammed-ibrahim-4805722a3)
+* 🖥️  See my portfolio at [linkedin](https://www.linkedin.com/in/ibrahim5020/)
 * ✉️  You can contact me at [mohammedibrahim92005@gmail.com](mailto:mohammedibrahim92005@gmail.com)
 * 🧠  I'm currently learning Kafka
 * 👥  I'm looking to collaborate on Open to collaborate on real-world backend solutions, open-source projects, and scalable system designs.
